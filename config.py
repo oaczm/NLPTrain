@@ -11,7 +11,7 @@ config = {
     "model_type": "bert",
     "num_layers": 2,
     "class_num": 2,
-    "pretrain_model_path": r"D:\EVPlayer\八斗精品班\bert-base-chinese",
+    "pretrain_model_path": r"D:\EVPlayer\bert-base-chinese",
     "pooling_style": "max",
     "epoch": 20,
     "batch_size": 256,
